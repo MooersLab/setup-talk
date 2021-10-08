@@ -8,4 +8,4 @@ I had to get it under version control anyways.
 
 My workflow involves writing the talk in LaTeX on Overleaf.
 I have additional subfolders on Overleaf.
-The project on Overleaf is under version control in the `overlear` folder.
+The project on Overleaf is under version control in the `overleaf` folder.
