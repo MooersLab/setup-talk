@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=setup-talk/&message=0.2&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # Setup for a talk
 Script for creating common subfolders in a folder for a talk on my local computer. 
 The script also writes a AAAreadme.md file with a description of the role of each subfolder.
